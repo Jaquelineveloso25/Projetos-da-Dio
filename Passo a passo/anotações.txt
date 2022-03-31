@@ -1,0 +1,7 @@
+1 passo - crie um repositório 
+2 passo - salve o repositório e copie o link 
+3  passo - crie uma pasta para salvar seus projetos
+4 passo - abra o Git bash 
+5 passo - Git clone 
+6 passo- copie o link do repositório e cole 
+o repositorio vai para dentro da pasta criada 
